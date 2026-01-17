@@ -1,4 +1,4 @@
-#   MeKS - 基于刀具知识图谱的知识管理系统 🌌
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/e2cd8277-f75c-4c96-b7c3-1f17047a8e19" />#   MeKS - 基于刀具知识图谱的知识管理系统 🌌
 
 ## 💡 项目亮点
 
@@ -84,25 +84,18 @@ MeKS (Mechanical Knowledge System)是一个基于刀具产品数据知识图谱�
 
 ## 🗄️ 系统截图
 
-<img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/a8cf52dd-8c9d-4bc4-bdd2-8a123322259b" />
 
-<img width="1912" height="896" alt="image" src="https://github.com/user-attachments/assets/2a35fbce-2fda-4fe6-83ad-e5d3d967bfc7" />
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/39ba7813-14bc-4e7d-86c7-f0acde25bc7f" />
 
-<img width="1915" height="898" alt="image" src="https://github.com/user-attachments/assets/9fe97417-4b6e-4825-94ae-a6e6e25b6644" />
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/f79f2faa-b74a-4d66-a140-7268f12f4864" />
 
-<img width="1906" height="859" alt="image" src="https://github.com/user-attachments/assets/ac4758a3-0754-4fb8-948e-0af29ac35e92" />
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/2a0f73e5-ed0c-46e6-9c80-3b989b0c501b" />
 
-<img width="1906" height="890" alt="image" src="https://github.com/user-attachments/assets/10818bd6-7bcb-45eb-b4e3-dded96e367e7" />
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/a1ca5ed7-1175-4403-b2ca-d846afac8ec0" />
 
-<img width="1908" height="892" alt="image" src="https://github.com/user-attachments/assets/94917fe5-4c1d-49a1-85f6-2b855bbed3eb" />
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/f2fd8d00-60bc-439e-af41-61e25286f5a9" />
 
-<img width="1907" height="893" alt="image" src="https://github.com/user-attachments/assets/1c6eff98-d413-4ee8-a00d-047947f0deb9" />
 
-<img width="1903" height="890" alt="image" src="https://github.com/user-attachments/assets/aecedffc-14a2-4bc9-bc53-dbfa8105ec4f" />
-
-<img width="1888" height="896" alt="image" src="https://github.com/user-attachments/assets/78c4ae1d-d462-4a15-b7ca-c9a50d6a9660" />
-
-<img width="1905" height="896" alt="image" src="https://github.com/user-attachments/assets/c624413f-a492-46fa-9202-733b998a8f66" />
 
 > 💡 **如果您觉得这个项目的想法对您有帮助，请给个 ⭐ Star 支持一下！谢谢~**
 
