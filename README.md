@@ -1,4 +1,4 @@
-<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/e2cd8277-f75c-4c96-b7c3-1f17047a8e19" />#   MeKS - 基于刀具知识图谱的知识管理系统 🌌
+#   MeKS - 基于刀具知识图谱的知识管理系统 🌌
 
 ## 💡 项目亮点
 
@@ -84,6 +84,7 @@ MeKS (Mechanical Knowledge System)是一个基于刀具产品数据知识图谱�
 
 ## 🗄️ 系统截图
 
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/e2cd8277-f75c-4c96-b7c3-1f17047a8e19" />
 
 <img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/39ba7813-14bc-4e7d-86c7-f0acde25bc7f" />
 
